@@ -41,3 +41,4 @@ def espof():
     }
     requests.post(url, headers=headers, data=data) # Post headers and data to web server
     print(colored(f"[ Email Sent Successfully | {email_from} --> {email_to} N:{emailnum}]", 'green')) # Successful Message
+    input(colored("Press Enter to exit ...", 'red'))
