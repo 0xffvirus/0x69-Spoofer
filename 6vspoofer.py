@@ -23,7 +23,7 @@ print(colored("""
 ╚██████╔╝██╔╝ ██╗╚██████╔╝█████╔╝
  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚════╝ 
                                  """, 'red'))
-print(colored(" [ 6v Spoofer | Github: @0xff ]\n", 'red'))
+print(colored(" [ 6v Spoofer | Github: @0xffvirus ]\n", 'red'))
 print("""[1] Email Spoofer | [2] Fake Credit Card | 
 [3] Fake Address | [4] Fake Ip \n""")
 
